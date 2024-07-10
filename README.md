@@ -1,1 +1,3 @@
-In python, merged and cleaned eight Formula 1 datasets to implement factor analysis to identify and reduce dimensionality of the data and Linear Regression, Linear Mixed Models, Regression Trees, Logistic Regression, and K-Nearest Neighbors to predict Formula 1 race points and constructor points.
+File(s): This project consists of 3 ipybn files. The first file provides the code used to merge the eight raw data files. The second file provides the code used to clean the data and perform exploratory data analysis. The third file provides the code used to implement dimensionality reduction and modeling techniques on the data. 
+
+Project Description: In python, merged and cleaned eight Formula 1 datasets to implement factor analysis to identify and reduce dimensionality of the data and Linear Regression, Linear Mixed Models, Regression Trees, Logistic Regression, and K-Nearest Neighbors to predict Formula 1 race points and constructor points.
