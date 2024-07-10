@@ -1,2 +1,1 @@
-# Data-Mining-Projects
-A collection of some of my recent data mining projects. 
+In python, merged and cleaned eight Formula 1 datasets to implement factor analysis to identify and reduce dimensionality of the data and Linear Regression, Linear Mixed Models, Regression Trees, Logistic Regression, and K-Nearest Neighbors to predict Formula 1 race points and constructor points.
